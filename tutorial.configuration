@@ -1,0 +1,3 @@
+db.host=jdbc:derby://localhost:1527/tutorial;create=true
+db.userName=root
+db.password=root
